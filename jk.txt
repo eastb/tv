@@ -1,0 +1,29 @@
+直播源(含港澳台)：https://myernestlu.github.io/zby.txt
+直播源：          https://myernestlu.github.io/zby.txt
+直播源2：https://pastebin.com/raw/ybSuEMjs
+正规直播源
+http://www.yeyin.vip/usr/uploads/2020/04/1353586695.txt
+直播接口：
+卫视高清/4K专区超清直播源
+https://pastebin.com/raw/ybSuEMjs
+各种直播源收集自网络
+https://gitee.com/kinghunki/ZBTV/raw/master/zb.txt
+https://gitee.com/kinghunki/ZBTV/raw/master/nzy.txt
+https://gitee.com/kinghunki/ZBTV/raw/master/kc.txt
+直播源：
+
+http://www.sharerw.com/zb/1203.m3u
+（这个源今天已经重新更新了部分湾湾台）                                           
+节目预告：
+
+http://epg.51zmt.top:8000/e.xml
+
+
+自建
+               https://github.com/eastb/h/blob/master/qs0.txt
+https://raw.githubusercontent.com/eastb/h/master/qs0.txt  可能需要翻墙 改hosts
+https://raw.githubusercontent.com/eastb/ds/master/list/list/gt.txt
+
+                https://github.com/eastb/tv/blob/master/qs0.txt
+https://raw.githubusercontent.com/eastb/tv/master/qs0.txt
+https://raw.githubusercontent.com/eastb/tv/master/2020gbc.txt
